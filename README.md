@@ -26,7 +26,7 @@ Here are some interesting classes I have taken throughout college:
 
 ## Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlockadeRunner&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlockadeRunner&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockadeRunner&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=3D-SHARKS)](https://github.com/anuraghazra/github-readme-stats)
 
