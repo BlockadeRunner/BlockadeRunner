@@ -28,6 +28,7 @@ Here are some interesting classes I have taken throughout college:
 #### BetweenUs Mobile App   
 I am the lead developer, tester, and debugger on a team of four that is currently building a mobile application which aims to facilitate seamless meetups between friends by determining the optimal midpoint between their respective locations. Check it out here:  
 https://github.com/BlockadeRunner/BetweenUs  
+   
 
 #### Small Scale Autonomous Drone   
 I am also actively collaborating with a team of two peers to develop a small-scale autonomous drone that uses camera data and visual odometry algorithms for indoor navigation. Our goal is to develop a computationally-lightweight system that will allow the drone to operate autonomously using solely its on-board computing resources. Check out our progress here:  
