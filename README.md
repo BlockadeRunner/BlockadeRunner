@@ -24,10 +24,12 @@ Here are some interesting classes I have taken throughout college:
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-## Projects
+## Projects  
+### Small Scale Autonomous Drone   
 I am the lead developer, tester, and debugger on a team of four that is currently building a mobile application which aims to facilitate seamless meetups between friends by determining the optimal midpoint between their respective locations. Check it out here:  
 https://github.com/BlockadeRunner/BetweenUs  
-
+   
+### BetweenUs Mobile App      
 I am also actively collaborating with a team of two peers to develop a small-scale autonomous drone that uses camera data and visual odometry algorithms for indoor navigation. Our goal is to develop a computationally-lightweight system that will allow the drone to operate autonomously using solely its on-board computing resources. Check out our progress here:  
 https://github.com/magmablaze19/AutoDrone  
 
