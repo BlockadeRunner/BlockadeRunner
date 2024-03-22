@@ -1,15 +1,15 @@
 # Hi, I'm Alex 👋
 
 
-I am a student at the **College of William & Mary**, seeking a Bachelor's in **Computer Science with a Data Science minor** as of February 2024. My passions include Cybersecurity Analysis and Penetration Testing, Software Development, and Human-Computer Interaction.
+I am a student at the **College of William & Mary**, seeking a Bachelor's in **Computer Science with a Data Science minor** as of 2024. My passions include Cybersecurity Analysis and Penetration Testing, Software Development, and Human-Computer Interaction.
 
 Here are some interesting classes I have taken throughout college:
 
 - Applied Cybersecurity
+- Mobile Application Security
+- Intro to Edge Computing
 - Intro to HCI (Human-Computer Interaction)
 - Software Development
-- Computer Organization
-- Principles of Programming Languages
 
 ## Languages, Technologies, and Skills
 
