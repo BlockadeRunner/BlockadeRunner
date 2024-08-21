@@ -11,6 +11,8 @@ Here are some interesting classes I have taken throughout college:
 - Intro to HCI (Human-Computer Interaction)
 - Software Development
 
+I am currently training and testing a deep learning autopilot on a small scale autonomous vehicle in the Vehicle Computing Lab at William and Mary. Check out some video demonstrations here: https://sidilu.org/lab.html
+
 ## Languages, Technologies, and Skills
 
 ##### Languages
