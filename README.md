@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
 
 
-I am a student at the **College of William & Mary**, seeking a Bachelor's in **Computer Science with a Data Science minor** as of 2024. My passions include Cybersecurity Analysis and Penetration Testing, Software Development, and Edge Computing for IoT Devices.
+I am a student at the **College of William & Mary**, seeking a Bachelor's in **Computer Science with a Data Science minor** as of 2024. My passions include Cybersecurity Analysis and Penetration Testing, Software Development, Machine Learning, and Edge Computing for IoT Devices.
 
 Here are some interesting classes I have taken throughout college:
 
