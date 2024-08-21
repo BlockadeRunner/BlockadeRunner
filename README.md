@@ -26,7 +26,7 @@ Here are some interesting classes I have taken throughout college:
 
 ## Projects  
 #### BetweenUs Mobile App   
-I am the lead developer, tester, and debugger on a team of four that is currently building a mobile application which aims to facilitate seamless meetups between friends by determining the optimal midpoint between their respective locations. Check it out here:  
+I am the lead developer, tester, and debugger on a team of four that built a mobile application which aims to facilitate seamless meetups between friends by determining the optimal midpoint between their respective locations. Check it out here:  
 https://github.com/BlockadeRunner/BetweenUs  
    
 
