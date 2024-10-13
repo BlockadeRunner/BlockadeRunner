@@ -9,7 +9,7 @@ Here are some interesting classes I have taken throughout college:
 - Mobile Application Security
 - Intro to Edge Computing
 - Intro to HCI (Human-Computer Interaction)
-- Software Development
+- Web Programming
 
 I am currently training and testing a deep learning autopilot on a small scale autonomous vehicle in the Vehicle Computing Lab at William and Mary. Check out some video demonstrations here: https://sidilu.org/lab.html
 
